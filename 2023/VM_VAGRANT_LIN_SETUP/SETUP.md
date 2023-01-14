@@ -9,6 +9,7 @@ This is the setup for local vm with os ubuntu
 - Server initialize: vagrant init ubuntu/xenial64
 - Server up: vagrant up
 - Login: vagrant ssh
+- Check config: vagrant ssh-config
 
 
 
